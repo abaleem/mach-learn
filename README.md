@@ -1,4 +1,4 @@
-# ml-library
+# Machine Learning Library
 
 This collection has following algoithms:-
 
@@ -25,8 +25,8 @@ This collection has following algoithms:-
 
 Although there are several libraries available the reasons I compliled my own is:
 
-1 To better understand the algorithms.
-2 To changes in algorithm with respect to the task and data available.
-3 Make it easy to tune hyperparameter, using inbuilt functions.
+1. To better understand the algorithms.
+2. To changes in algorithm with respect to the task and data available.
+3. Make it easy to tune hyperparameter, using inbuilt functions.
 
 Lastly, feel free to use any of this code. Although this only contains a handful of algorithms but Ill keep on adding more in the future.
