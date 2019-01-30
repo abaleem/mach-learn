@@ -1,9 +1,8 @@
 # Mach Master
 
 Collection of some machine learning algorithm written for python. <br>
-For complete guide on how to use please see 'mach.ipynb' or [Click Here](https://github.com/abaleem/mach-master/blob/master/mach.ipynb)
-<br>
-<br>
+For complete guide on how to use please see 'mach.ipynb' or [Click Here](https://github.com/abaleem/mach-master/blob/master/mach.ipynb)<br><br>
+
 This collection has following algoithms:-
 * Supervised
    * Decision Tree (dt.py)
