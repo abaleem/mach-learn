@@ -1,7 +1,10 @@
-# Machine Learning Library
+# Mach Master
+
+Collection of some machine learning algorithm written for python.
+
+For complete guide on how to use please see 'mach.ipynb' or [Click Here](https://github.com/abaleem/mach-master/blob/master/mach.ipynb)
 
 This collection has following algoithms:-
-
 * Supervised
     * Decision Tree (dt.py)
     * KNN (knn.py)
