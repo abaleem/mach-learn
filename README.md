@@ -3,6 +3,8 @@
 Collection of some machine learning algorithm written for python. <br>
 For complete guide on how to use please see 'mach-learn.ipynb' or [Click Here](https://github.com/abaleem/mach-learn/blob/master/mach.ipynb)<br><br>
 
+By Abdullah Aleem
+
 This collection has following algoithms:-
 * Decision Tree (dt.py)
 * KNN (knn.py)
