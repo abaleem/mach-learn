@@ -1,7 +1,7 @@
 # mach-learn
 
 Collection of some machine learning algorithm written for python. <br>
-For complete guide on how to use please see 'mach-learn.ipynb' or [Click Here](https://github.com/abaleem/mach-learn/blob/master/mach.ipynb)
+For complete guide on how to use please see 'mach-learn.ipynb' or [Click Here](https://github.com/abaleem/mach-learn/blob/master/mach-learn.ipynb)
 
 By Abdullah Aleem <br><br>
 
