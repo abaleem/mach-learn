@@ -8,18 +8,18 @@ This collection has following algoithms:-
 * KNN (knn.py)
 * Percepton (perceptron.py)
 * Linear Classifer with Gradient Descendent (linear.py and gd.py)
-      * Squared Loss
-      * Logistic Loss
-      * Hinge Loss   
+     * Squared Loss 
+     * Logistic Loss
+     * Hinge Loss   
 * Multiclass Classifiers (multiclass.py)
-      * One vs All
-      * All vs All
-      * MC Tree
+     * One vs All
+     * All vs All
+     * MC Tree
 * Clustering (clustering.py)
-      * FirstK
-      * Random
-      * Further First Heuristic
-      * KMeans++
+     * FirstK
+     * Random
+     * Further First Heuristic
+     * KMeans++
 
 
 Although there are several libraries available the reasons I compliled my own is:
