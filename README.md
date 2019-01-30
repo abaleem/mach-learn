@@ -6,20 +6,20 @@ For complete guide on how to use please see 'mach.ipynb' or [Click Here](https:/
 <br>
 This collection has following algoithms:-
 * Supervised
-    * Decision Tree (dt.py)
-    * KNN (knn.py)
-    * Percepton (perceptron.py)
-    * Linear Classifer with Gradient Descendent (linear.py and gd.py)
+   * Decision Tree (dt.py)
+   * KNN (knn.py)
+   * Percepton (perceptron.py)
+   * Linear Classifer with Gradient Descendent (linear.py and gd.py)
         * Squared Loss
         * Logistic Loss
         * Hinge Loss   
-     * Multiclass Classifiers (multiclass.py)
+   * Multiclass Classifiers (multiclass.py)
         * One vs All
         * All vs All
         * MC Tree
 
 * Unsupervised
-    * Clustering (clustering.py)
+   * Clustering (clustering.py)
         * FirstK
         * Random
         * Further First Heuristic
