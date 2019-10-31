@@ -1,6 +1,5 @@
 # Machine Learning Algorithms
 
-### By Abdullah Aleem
 
 ## Overview
 
